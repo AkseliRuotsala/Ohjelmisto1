@@ -42,6 +42,6 @@ print(f'{paino_kokonaisosa:.0f}kg ja 'f'{grammat:.2f}g')
 #tehtävä 6
 
 print(
-f'sattumanvarainen nelinumeroinen koodi:{random.randint(1,9), random.randint(1,9), random.randint(1,9), random.randint(1,9)}'
-f'\nsattumanvarainen kolminumeroinen koodi{random.randint(1,6), random.randint(1,6), random.randint(1,6),}')
+f'sattumanvarainen nelinumeroinen koodi:{ random.randint(1,9), random.randint(1,9), random.randint(1,9)}'
+f'\nsattumanvarainen kolminumeroinen koodi{random.randint(1,6), random.randint(1,6), random.randint(1,6),random.randint(1,6)}')
 
