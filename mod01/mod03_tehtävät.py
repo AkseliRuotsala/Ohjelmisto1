@@ -51,7 +51,7 @@ if sukupuoli==sukupuoli2:
 #tehtävä 4
 vuosi1=int(input('Ilmoita vuosi:'))
 
-if vuosi1 % 3 !=0:
+if vuosi1 % 4 !=0:
     print(f'{vuosi1} ei ole karkausvuosi')
 else:
     if vuosi1 % 100!=0:
